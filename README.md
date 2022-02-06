@@ -1,49 +1,47 @@
-# NOTED - Don't Bother Remembering
-![NOTED logo](https://lh3.googleusercontent.com/pAZCJtr2AGqoj0NCCP9eudIS3No0SN6MNwPurplkcXxW_nY9VjXNElQKh9JMEcVy8Q=s180-rw)
+# Application de prise de note
+
+![1](https://user-images.githubusercontent.com/81876011/152692559-5e2ac65d-fad9-433f-83da-09d8614dfaa9.png)
+
+## Analyse de Besoin
+
+1. DATA : Une multitude de données de types variés et de différentes sources.
+
+2. ORGANISATION : Une organisation facile à implémenter et simple à utiliser.
+
+3. Multi-tâches : Une expérience utilisateur évoluée et riche.
+
+## Description de Solution
+
+Note est une application mobile native sur le système Android. Elle sert à gérer le flux des idées de l’utilisateur en organisant sa prise de note.
+Certes ce type de projet est classique mais, notre vision c’est de l’améliorer en ajoutant de nouvelles fonctionnalités sur une interface plus simple. De là, permettre à tout type d’utilisateur de bénéficier une expérience fluide et harmonieuse.
+
+## Environnement de Travail
+
+![33](https://user-images.githubusercontent.com/81876011/152693254-8f438b43-d7a2-4441-b7c7-ab0ef28ef54b.png)
 
 
-**NOTED - Don't Bother Remembering**
+**Fonctionnalités de l'application :**
 
-[Get the app on Google Play Store](https://play.google.com/store/apps/details?id=com.developerdepository.noted)
-
-![Google Play](https://www.gstatic.com/android/market_images/web/play_prism_hlock_2x.png)
-
-
-**NOTED - Don't Bother Remembering** has been developed for android devices and is your all-in-one solution to take, save & share notes. **NOTED** comes in with a clean and simple user interface and provides a fluid user experience during note taking, the best part being note sharing feature. Let's dive into details of what else it can bring in picture.
-
-Well, to begin with, **NOTED** gives you a clean interface to add note with title, subtitle and note's body. Then again, you can add color to your note. You can then add image to your note. **NOTED** provides you with two ways to add image - Take photo via device's camera and choose image from gallery. After choosing a picture, you can edit it - crop, scale or rotate. You can also add web links (URLs) to your note. You can add voice note also in case you hate typing ;)
-
-After adding all these, you can save your note and display it. You can also search for any saved note. You can then make **NOTED** read the note for you and it will literally dictate it for you. You can delete any saved note (if you think that's of no use anymore). You can share any note via various social media platforms - **NOTED** will also share the image (if your note contains one).
-
-You can edit any note anytime you want - Change color, change or remove image, edit or remove web link (URL) and much more. There are quick actions on the home page itself to add to your ease.
-
-The app comes in with both, light and dark themes for visibility ease.
-
-
-
-
-**App Features :**
-
-1. Add Notes - Title, Subtitle and Body
-2. Add color to notes
-3. Add image - take photo from camera or choose from gallery
-4. Edit image - crop, scale and rotate
-5. Add web links (URLs)
-6. Add voice note
-7. Save and display notes
-8. Search for any note
-9. Make NOTED dictate the note to you
-10. Delete any saved note
-11. Edit any note - Change color, image, url and much more
-12. Share any note via various social media platforms
-13. Quick Actions to add to user's ease
-14. Dark and Light mode support
-15. In-App updates : Lets users download and install app updates while using the app.
+1. Ajouter des notes - Titre, sous-titre et corps
+2. Ajoutez de la couleur aux notes
+3. Ajouter une image - prendre une photo de l'appareil photo ou choisir dans la galerie
+4. Modifier l'image - recadrer, redimensionner et faire pivoter
+5. Ajouter des liens Web (URL)
+6. Ajouter une note vocale
+7. Enregistrer et afficher des notes
+8. Rechercher n'importe quelle note
+9. Faites NOTER vous dicter la note
+10. Supprimer toute note enregistrée
+11. Modifiez n'importe quelle note - Changez la couleur, l'image, l'URL et bien plus encore
+12. Partagez n'importe quelle note via diverses plateformes de médias sociaux
+13. Actions rapides à ajouter à la facilité de l'utilisateur
+14. Prise en charge des modes sombre et clair
+15. Mises à jour intégrées à l'application : permet aux utilisateurs de télécharger et d'installer les mises à jour de l'application tout en utilisant l'application.
 
 
 
 
-**Some Screenshots :**
+**Quelques captures d'écran :**
 
 
 
@@ -60,11 +58,4 @@ The app comes in with both, light and dark themes for visibility ease.
 
 
 
-**Privacy Policy :**
-
-![Developer Depository](https://lh3.googleusercontent.com/a-/AOh14GhIuMOs8u9r6k-hRtF74x3pqESrdDHwNGIJ_fwzGg=s96-c-rg-br100)
-
-
-Developer Depository led by Apoorva Ranjan owns the right to this app. The app users are bound to this [Privacy Policy](https://developerdepository.wixsite.com/noted-policies)
-
-*Thanks!*
+*Merci!* 
