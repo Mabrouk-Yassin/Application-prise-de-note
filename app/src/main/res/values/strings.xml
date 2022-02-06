@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">NOTE</string>
+    <string name="my_notes">Mes notes</string>
+    <string name="search_notes">Rechercher vos notes</string>
+    <string name="note_title">Titre de la Note</string>
+    <string name="note_subtitle">Sous-titre de la Note</string>
+    <string name="type_note_here">Tapez la note ici…</string>
+    <string name="powered_by"></string>
+    <string name="developer_depository"></string>
+    <string name="don_t_bother_remembering">Ne vous embêtez pas à vous souvenir!</string>
+    <string name="miscellaneous">Divers</string>
+    <string name="pick_color">Choisissez la couleur pour la note</string>
+    <string name="add_image">Ajouter une image</string>
+    <string name="add_url">Ajouter URL</string>
+    <string name="enter_url">Entrer Url</string>
+    <string name="add">AJOUTER</string>
+    <string name="cancel">ANNULER</string>
+    <string name="delete_note">Supprimer la Note</string>
+    <string name="whoa_you_don_t_have_any_saved_notes_yet">Vous n\'avez aucune note ici!</string>
+    <string name="take_photo">Prendre une Photo</string>
+    <string name="add_voice_note">Ajouter une voix Note</string>
+    <string name="select_image">Sélectionner une image</string>
+    <string name="reading_text">Voulez-vous que NOTED lise la note pour vous?</string>
+    <string name="stop_reading">ANNULER</string>
+    <string name="start_reading">LIRE</string>
+    <string name="read_note">Lire la Note</string>
+    <string name="rate_dialog_title">Comment évalueriez-vous NOTED?</string>
+    <string name="rate_dialog_message"></string>
+    <string name="rate_dialog_ok">Évaluer maintenant</string>
+    <string name="rate_dialog_cancel">Rappelez-moi plus tard</string>
+    <string name="share_note">Partager la note</string>
+</resources>
+
